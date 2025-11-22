@@ -33,20 +33,6 @@ I'm especially passionate about **remote work opportunities** where I can contri
 
 ---
 
-## 📂 Featured Projects
-
-> *(Add your project links below when ready)*
-
-* **Project 1 – Title**
-  Short description of what you built, tech used, and the purpose.
-
-* **Project 2 – Title**
-  Short description.
-
-* **Project 3 – Title**
-  Short description.
-
----
 
 ## 🌍 What I'm Looking For
 
