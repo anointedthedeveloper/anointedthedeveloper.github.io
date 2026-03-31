@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-I'm **Agunloye Anointed**, a passionate and detail-oriented **Web Developer** based in **Lagos, Nigeria**.  
+I'm **Agunloye Anointed**, a passionate and detail-oriented **Web Developer** based in **Abuja, Nigeria**.  
 
 I love building modern, responsive, and user-friendly applications that solve real problems. Whether it's a sleek web app, a powerful CLI tool, or an automation script that saves hours, I enjoy the entire process — from idea to production.
 
